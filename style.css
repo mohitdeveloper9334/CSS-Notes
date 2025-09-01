@@ -1,0 +1,77 @@
+h1{
+    text-align: center;
+    color: red;
+    color: rgb(255, 000, 000);
+    color: #ff0000;
+    background-color: aliceblue;
+    font-weight: 700;
+    text-decoration: underline;
+    text-decoration: black underline;
+    text-decoration-style: wavy;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium';
+
+}
+p{
+    text-align: justify;
+    color: black;
+    color: rgb(000, 000, 000);
+    color: #000000;
+    background-color: lightgreen;
+    font-weight: 500;
+    text-decoration-style: none;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    font-size: 15px;
+    font-family: Arial;
+}
+h2{
+    text-align: center;
+    color: green;
+    color: rgb(000, 255, 000);
+    color: #00ff00;
+    background-color: lightyellow;
+    font-weight: 700;
+    text-decoration: overline;
+    text-decoration: blue overline;
+    text-decoration-style: double;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+   
+}
+
+h3{
+    text-align: center;
+    color: blue;
+    color: rgb(000, 000, 255);
+    color: #0000ff;
+    background-color: lightgray;
+    font-weight: 600;
+    text-decoration:line-through;
+    text-decoration: red line-through;
+    text-decoration-style: dashed;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    text-decoration: none;
+    color: blue;
+    color: rgb(000, 000, 255);
+    color: #0000ff;
+    background-color: lightcyan;
+    font-weight: 600;
+    text-decoration: underline;
+    text-decoration: green underline;
+    text-decoration-style: solid;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    font-size: 20px;
+    font-family: 'Verdana', sans-serif;
+
+}

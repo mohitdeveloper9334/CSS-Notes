@@ -1,0 +1,129 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    color: #f52936;
+    text-align: center;
+}
+
+h3{
+    color: #f52936;
+}
+
+h1,
+h3{
+    color: #f52936;
+}
+
+#login{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+#signup{
+    background-color:#f52936;
+    color: black;
+}
+
+.upvote{
+    background-color: green;
+    color: aliceblue;
+}
+
+#myId p{
+    background-color: #f52936;
+    color: white;
+}
+
+div[id="myId"]{
+    background-color: #f52936;
+    color: white;
+}
+
+p a{
+    color: #e1f529;
+    background-color: #f52936;
+
+}
+
+nav ul li a{
+    color: rgb(205, 226, 43);
+    text-decoration: underline;
+    background-color: #ae29f5;
+}
+
+p + h3{
+    text-decoration: underline;
+}
+
+.upvote + button{
+    background-color: #f52936;
+    color: white;
+}
+
+div > input{
+    color: #4429f5;
+    background-color: #29f574;
+}
+
+input[type="text"]{
+    background-color: #f6f6f6;
+    color: #40ac58;
+}   
+
+input[type="password"]{
+    background-color: #ffffff;
+    color: rgb(26, 210, 56);
+}
+
+input[type]{
+    background-color: #f52936;
+    color: rgb(54, 19, 248);
+}
+
+button:hover{
+    background-color: green;
+    color: red;
+}
+
+h3:hover{
+    color: yellow;
+    text-decoration: overline; 
+}
+
+button:active{
+    background-color:yellow;
+    color: black;
+}   
+
+p:active{
+    color: hotpink;
+    background-color: yellow;
+    font-weight: bold;
+}
+
+input[type="radio"]:checked+ label{
+    background-color: yellow;
+    color: gray;
+    font-weight:bold;
+}
+
+div:nth-of-type(3n){
+    background-color:black;
+}
+
+h1::first-letter{
+    color:black;
+    font-size: 2em;
+}
+
+p::first-line{
+    color:black;
+    font-weight: bold;
+}
+
+p::selection{
+    color: limegreen;
+}
+

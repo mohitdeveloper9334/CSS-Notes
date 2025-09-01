@@ -1,0 +1,22 @@
+div{
+    background-color: aliceblue;
+}
+
+form{
+    background-color: #f52936;
+    color: white;
+}
+
+button{
+    background-color: #f52936;
+    color: yellow;
+}
+
+input{
+    background-color: #f52936;
+    color:yellow;
+}
+button:hover{
+    background-color: green;
+    color:red;
+}

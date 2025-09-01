@@ -1,0 +1,10 @@
+div{           /*this is a root element*/
+    height: 100px;
+    width: 100px;
+    background-color: #1aff00ff; /*when last two digits are 00, it means fully transparent*/
+}
+
+#opacity{
+    background-color: #ff0051;
+    opacity: 1; /*when opacity is 0, it means fully transparent*/ /*when opacity is 1, it means fully opaque*/
+}

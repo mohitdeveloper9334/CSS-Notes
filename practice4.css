@@ -1,0 +1,53 @@
+/* this is practice4.css */
+
+h1{
+    color: pink;
+}
+
+#great{
+    color: brown
+}
+
+.myClass{
+    color: blue;
+}
+
+/* This is a practice5.css */
+
+p{
+    color: green;
+    background-color: yellow;
+}
+
+.peer {
+    color: pink;
+    background-color: lightblue;
+}
+
+div p{
+    color: orange;
+    background-color: lightgray;
+}
+
+#para {
+    color: red;
+    background-color: lightgreen;
+}
+
+/* This is a practice6.css */
+
+
+div.greetDiv .greet{
+    color: purple;
+    background-color: lightyellow;
+}
+
+ .greetDiv p.greet{
+    color: darkblue;
+    background-color: rgb(143, 128, 240);
+}
+
+.greetDiv .greet{
+    color: darkgreen;
+    background-color:brown;
+}

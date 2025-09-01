@@ -1,0 +1,9 @@
+#myId p{
+    background-color: #f52936;
+    color: white;
+}
+
+div[id="myId"]{
+    background-color: #f52936;
+    color: white;
+}
